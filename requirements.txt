@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+pyshark
+scapy
+streamlit
+matplotlib
+tensorflow-intel
